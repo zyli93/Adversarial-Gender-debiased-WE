@@ -12,7 +12,7 @@ from glove import Glove
 from glove import Corpus
 
 """
-_Adversarial Gender Unbiased Word Embedding_
+Adversarial Gender Unbiased Word Embedding
 
 Jieyu Zhao, Yichao Zhou, Zeyu Li
 CS269 Course Project
